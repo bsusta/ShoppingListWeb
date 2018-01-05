@@ -1,0 +1,6 @@
+{
+  "name": "DoIt",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DoIt.js"
+}

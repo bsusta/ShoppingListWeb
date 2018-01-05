@@ -1,0 +1,39 @@
+// Here you can add other styles
+.table td {
+  vertical-align: middle;
+}
+
+.filterDivInside {
+  padding-bottom: 35px;
+  padding: 0;
+  padding-top: 20px;
+  padding-right: 15px;
+}
+
+.filterDiv {
+  width: 250px;
+  position: absolute;
+  border-right: 1px solid #c2cfd6;
+  flex-direction: row;
+  min-height: 95%;
+}
+
+.newEditCard {
+  max-width: 1380px;
+  border-top: 0px;
+}
+
+.underlined-input {
+  border:none;
+  border-bottom: 1px solid #C2CFD6;
+  border-width: 1px;
+  background-color: white;
+
+}
+
+
+.sidebar .nav-link i,
+.sidebar .navbar .dropdown-toggle i,
+.navbar .sidebar .dropdown-toggle i {
+  color: white !important;
+}
